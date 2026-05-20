@@ -1,3 +1,4 @@
+.claude/
 serviceAccount.json
 .env
 venv/
