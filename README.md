@@ -2,6 +2,10 @@
 
 A browser-based CRM dashboard built with Python Flask and Google Firestore. Track contacts through a sales pipeline, log income and expenses, and view a live summary dashboard, all from the browser with no local database required.
 
+## Live Demo
+
+**[View the live demo →](https://finance-dashboard-demo-weld.vercel.app/dashboard.html)** A deployed, click-through version preloaded with sample data, so you can explore the dashboard, contacts, and transactions without any Firebase setup.
+
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
